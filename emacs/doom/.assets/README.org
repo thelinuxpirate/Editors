@@ -1,0 +1,5 @@
+#+title: Emacs `fancy-splash-screen` Images
+If you want to use a specific image for the splash-screen
+make sure to resize the dimensions to
+
+- 427x400
